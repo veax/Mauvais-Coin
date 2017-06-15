@@ -5,8 +5,8 @@ This is a study project on faculty of Computer Science, so I used MySQL Syntax c
 According to official documentation (http://php.net/manual/en/function.mysql-query.php) you can`t deploy it on server with PHP 7 and above.
 Instead, the MySQLi extension should be used.
 
-Settings of database access: identifiants.php (I use USBWebServer)
-SQL creation of tables: SQL/creation_tables.sql
-Main page: accueil.php
+Settings of database access: identifiants.php (I use USBWebServer)<br>
+SQL creation of tables: SQL/creation_tables.sql<br>
+Main page: accueil.php<br>
 
 This application allows to create, search by filters, edit and delete your announcements.
