@@ -1,0 +1,11 @@
+﻿INSERT INTO Categories VALUES (1, 'Animaux');
+INSERT INTO Categories VALUES (2, 'Informatique');
+INSERT INTO Categories VALUES (3, 'Ameublement');
+INSERT INTO Categories VALUES (4, 'Immobilier');
+INSERT INTO Categories VALUES (5, 'Jeux & Jouets');
+INSERT INTO Categories VALUES (6, 'Vêtements');
+INSERT INTO Categories VALUES (7, 'Véhicules');
+INSERT INTO Categories VALUES (8, 'Services');
+INSERT INTO Categories VALUES (9, 'Décoration');
+INSERT INTO Categories VALUES (10, 'Image & Son');
+INSERT INTO Categories VALUES (11, 'Instruments de Musique');
